@@ -21,7 +21,6 @@ public/css/main.css
 .nyc_output/*
 
 # API keys and secrets
-.env
 
 # Dependency directory
 node_modules
@@ -29,7 +28,6 @@ bower_components
 
 # Editors
 .idea
-.vscode
 *.iml
 modules.xml
 *.ipr
@@ -50,3 +48,4 @@ Thumbs.db
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
+config.bat
